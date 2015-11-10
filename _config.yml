@@ -1,0 +1,23 @@
+name: 'Conservation & Community'
+favicon: null
+layout_spectrum: 0.6238629128783941
+typography_spectrum: 0.31610986846499145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4115198499057442
+  lightness: 0.22951979585923254
+  saturation: 0.48609971976839006
+  rhythmicContrast: 0.6781158542726189
+purpose: []
